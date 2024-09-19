@@ -1,4 +1,4 @@
-# Integrated Hybrid RAG Repository
+# Integrated Hybrid RAG
 
 ## Introduction
 
