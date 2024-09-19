@@ -31,13 +31,7 @@ To run the Jupyter notebooks and utilize the functionality provided by this repo
 The repository uses the following dependencies and their versions:
 - `llama-index`
 - `neo4j`
-- `llama-index-graph-stores-neo4j`
-- `llama-parse`
 - `qdrant_client`
-- `llama-index-vector-stores-qdrant`
-- `llama-index-embeddings-huggingface`
-- `llama-index-embeddings-fastembed`
-- `llama-index-llms-groq`
 
 ## Database Setup
 
